@@ -9,4 +9,4 @@
  -Email <br>
  
  Preview of the app:<br>
-![image](https://github.com/Ky-Dex/BusinessCard/assets/107052359/daad0273-d4e4-4312-ab3b-7ebefcbb58b2)
+![image](https://github.com/Ky-Dex/BusinessCard/assets/107052359/daad0273-d4e4-4312-ab3b-7ebefcbb58b2 | width = 100)
