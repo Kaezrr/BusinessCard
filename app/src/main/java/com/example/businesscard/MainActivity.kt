@@ -49,13 +49,13 @@ fun BusinessCard()
         verticalArrangement = Arrangement.SpaceAround
     ){
         CardInfo(
-            name = "Anjishnu Banerjee",
+            name = "John Doe",
             title = "Junior Android Developer"
         )
         ContactInfo(
             phone = "+11 (123) 456 789",
-            social = "@Ky-Dex",
-            email = "inviktor27@gmail.com"
+            social = "@JohnDoe",
+            email = "johndoe27@gmail.com"
         )
     }
 }
